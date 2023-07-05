@@ -1,4 +1,4 @@
-# pagopa-interop-consumer-poc
+# pagopa-interop-be-event-consumer-poc
 
 Kafka consumer that consumes Debezium events and updates the read model
 
